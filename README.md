@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**MSR2012/MSR2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **PHP and Laravel** developer experience in building high-quality management software.
 
-Here are some ideas to get you started:
+I have extensive experience in supporting and developing applications from scratch on the Laravel framework for existing businesses and start-ups. My experiences range from building management software with highly complex logic in the back-end to making friendly UI for the front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love to code, love to solve complex problems, whether it needs a long time or a short time.
+
+My skills include but not limited to:
+- Back-end: PHP 5.*, 7.*, 8.*, Laravel 4.2, 5, 6, 7, 8;
+-  Front-end: HTML, CSS, Bootstrap, JS, jQuery, TailwindCSS, Laravel Livewire;
+-  Databases: MySQL,  Oracle, REDIS;
+-  Solid understanding and OOP usage and design patterns;
+-  Building and integrating RESTful APIs;
+-  Unit testing, Feature testing;
+-  Stripe integration, Quickbook integration;
+-  Social login integration;
+
+I am very interested to contribute on open source project. Let's connect and explore how we can create meaningful impact together.
